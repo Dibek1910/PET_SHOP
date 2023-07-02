@@ -14,42 +14,71 @@ HTML, CSS, PHP, MySQL Database, JavaScript (jQuery/Ajax), Bootstrap, and startbo
 
 
 Features/Functionalities of Admin Panel
+
 -> Login/Logout
+
 -> Manage Category List
+
 -> Manage Sub Category List
+
 -> Manage Products
+
 -> Manage Inventory
+
 -> Manage Orders
+
 -> Manage System Settings
+
 -> Manage Account
 
 
 
 
 Features/Functionalities of Store/Public Side
+
 -> Login Modal
+
 -> Registration Modal
+
 -> Home Page
+
 -> Search Product
+
 -> View Product
+
 -> Browse Product Images
+
 -> Shopping Cart
+
 -> Place Order
+
 -> Order List
+
 -> Manage Account
 
 
 
 
 Steps to run
+
 -> Download and Install any local web server such as XAMPP.
+
 -> Download the provided source code zip file or clone the repository.
+
 -> Open your XAMPP's Control Panel and start the Apache and MySQL.
+
 -> Extract the downloaded source code zip file.
+
 -> We are using XAMPP so copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+
 -> Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+
 -> Create a new database naming pet_shop_db.
+
 -> Import the provided SQL file. The file is known as pet_shop_db.sql located inside the database folder.
--> Browse the Online Pet Shop Web App in a browser. i.e. http://localhost/pet_shop and http://localhost/pet_shop/admin for the admin side.
+
+-> Browse the Online Pet Shop Web App in a browser. i.e. http://localhost/pet_shop and http://localhost/pet_shop/admin for the admin 
+side.
+
 -> Admin Information ( Username: admin & Password: admin123)
 
